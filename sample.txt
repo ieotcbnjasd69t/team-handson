@@ -22,4 +22,4 @@ about画面作成完了
 
 
 ## フッター
-footer作成
+footer作成_2
