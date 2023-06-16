@@ -7,7 +7,7 @@
 いい感じの画像を作成
 
 ## ABOUT
-about画面作成
+about画面作成完了
 
 ## COURSE
 
